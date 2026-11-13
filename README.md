@@ -3,7 +3,6 @@
     <img src="https://img.shields.io/badge/𖦹-atabook-182947?style=flat-square&labelColor=101827" alt="atabook">
   </a>
 </p>
-
 $$
 \begin{array}{ll}
 & \textcolor{#71566E}{\text{𝒊 𝒘𝒂𝒔}}\ \textcolor{#80647B}{\text{𝒔𝒖𝒓𝒆,}}\\

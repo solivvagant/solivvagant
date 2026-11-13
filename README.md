@@ -12,5 +12,7 @@ $$
 \textcolor{#B18A9A}{\text{알수없어, 위험해}}&
 \end{array}
 $$
-
+<p align="center">
+  <span style="color:#96748A">— ✦ —</span>
+</p>
 <img width="1000" height="562" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/e4fc9864-d8ef-48ad-88ca-ec56bfea7025" />

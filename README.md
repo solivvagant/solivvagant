@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://solivvagant.atabook.org/">
+  <a href="https://tokirance.atabook.org/">
     <img src="https://img.shields.io/badge/𖦹-atabook-182947?style=flat-square&labelColor=101827" alt="atabook">
   </a>
 </p>

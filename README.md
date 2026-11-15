@@ -16,4 +16,4 @@ $$
 \textcolor{#71566E}{\text{—}}\ \textcolor{#96748A}{\text{✦}}\ \textcolor{#B18A9A}{\text{—}}
 $$
 
-<img width="1000" height="500" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/e4fc9864-d8ef-48ad-88ca-ec56bfea7025" />
+<img width="900" height="506" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/e4fc9864-d8ef-48ad-88ca-ec56bfea7025" />

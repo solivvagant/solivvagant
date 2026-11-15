@@ -7,7 +7,7 @@
 $$
 \begin{array}{ll}
 & \textcolor{#71566E}{\text{𝒊 𝒘𝒂𝒔}}\ \textcolor{#80647B}{\text{𝒔𝒖𝒓𝒆,}}\\
-& \textcolor{#96748A}{\text{⠀⠀⠀𝒃𝒖𝒕}}\ \textcolor{#AA8294}{\text{𝒄𝒉𝒂𝒏𝒈𝒆𝒅}}\ \textcolor{#B18A9A}{\text{𝒎𝒚 𝒎𝒊𝒏𝒅}}\\
+& \textcolor{#96748A}{\text{⠀⠀𝒃𝒖𝒕}}\ \textcolor{#AA8294}{\text{𝒄𝒉𝒂𝒏𝒈𝒆𝒅}}\ \textcolor{#B18A9A}{\text{𝒎𝒚 𝒎𝒊𝒏𝒅}}\\
 \textcolor{#96748A}{\text{⠀⠀⠀⠀매료돼, 비밀 속 heart}}&\\
 \textcolor{#B18A9A}{\text{알수없어, 위험해}}&
 \end{array}

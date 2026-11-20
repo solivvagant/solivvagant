@@ -19,14 +19,9 @@ $$
 <img width="660" height="371" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/e4fc9864-d8ef-48ad-88ca-ec56bfea7025" />
 </p>
 
-
-
 <p align="center">
 <img width="94" height="116" alt="pony-town-afk-dance-1-b-blinking-toy135-2x" src="https://github.com/user-attachments/assets/1d014a0a-9b60-44d9-b23f-b358dfc5abd4" />
 </p>
 
-
-
-
-
-
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31wph6crgjdgbrp7psfokmoneeia">
+</a>
